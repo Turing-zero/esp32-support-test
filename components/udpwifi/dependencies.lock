@@ -1,0 +1,15 @@
+dependencies:
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.1
+  protocol_examples_common:
+    component_hash: null
+    source:
+      path: /home/viper/esp/v5.2.1/esp-idf/examples/common_components/protocol_examples_common
+      type: local
+    version: '*'
+manifest_hash: fb7f6f29b6e21a36939a820ab09cde1045a33abb9c8ecfe48b14cf9f5a75cbf3
+target: esp32c6
+version: 1.0.0
